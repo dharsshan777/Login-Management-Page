@@ -1,0 +1,23 @@
+*{
+    background-color: #F4F7F2;
+}
+
+#heading1{
+
+    font-family: "Rubik", sans-serif;
+    font-weight: bold;
+    display: inline;
+    position: relative;
+    left:10px;
+    color: #293297;
+}
+
+#heading2{
+
+    font-family: "Rubik", sans-serif;
+    font-weight: bold;
+    display: inline;
+    position: relative;
+    left:10px;
+    color: #293297;
+}

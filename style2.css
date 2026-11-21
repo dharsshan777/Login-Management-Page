@@ -1,0 +1,83 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+#font3{
+    font-family: "Rubik", sans-serif;
+    font-weight: bold;
+    position: relative;
+    top: 20px;
+    color: #293297;
+}
+.card2{
+    width: 400px;
+    height: 380px;
+    border-radius: 20px;
+    border-color: black;
+    box-shadow: 3px 3px 4px grey;
+    background-color:#E5E9F2;
+    position: relative;
+    left: 570px;
+    top: 180px;
+}
+.name{
+     position: relative;
+      top: 90px;
+      left: 70px;
+}
+#name{
+    position: relative;
+    left: 80px;
+    top: 90px;
+     width: 100%;
+    height: 20px;
+}
+.email{
+    position: relative;
+      top: 130px;
+      left: 70px;
+}
+#email{
+    position: relative;
+    left: 80px;
+    top: 130px;
+     width: 100%;
+    height: 20px;
+}
+.role{
+    position: relative;
+      top: 170px;
+      left: 70px;
+}
+#role{
+    position: relative;
+    left: 80px;
+    top: 170px;
+     width: 100%;
+    height: 20px;
+
+}
+.back{
+    
+    width: 80px;
+    height: 30px;
+    border-radius: 5px;
+    position: relative;
+    top: 190px;
+    left: 70px;
+}
+.sub{
+    width: 80px;
+    height: 30px;
+    border-radius: 5px;
+    position: relative;
+    left: 170px;
+    top: 190px;
+}
+#bod{
+    position: relative;
+    top: 350px;
+    right: 100px;
+    font-family: "Rubik", sans-serif;
+    font-weight: bold;
+}

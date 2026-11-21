@@ -1,0 +1,100 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    /* background-color:#BFC2E1; */
+}
+#font2{
+    font-family: "Rubik", sans-serif;
+    font-weight: bold;
+    position: relative;
+    top: 20px;
+    color: #293297;
+}
+.card1{
+    width: 400px;
+    height: 420px;
+    border-radius: 20px;
+    border-color: black;
+    box-shadow: 3px 3px 4px grey;
+    background-color:#E5E9F2;
+    position: relative;
+    left: 570px;
+    top: 180px;
+}
+.details{
+    position: relative;
+    top: 100px;
+    left:80px;
+   
+}
+.nam{
+    margin-bottom: 25px;
+    position: relative;
+    right: 5px;
+    bottom: 10px;
+}
+#nam1{
+    margin-bottom: 20px;
+     width: 100%;
+    height: 20px;
+}
+.ag{
+    margin-bottom: 25px;
+    position: relative;
+    right: 6px;
+    bottom: 10px;
+}
+#ag1{
+     margin-bottom: 20px;
+    width: 100%;
+    height: 20px;
+}
+.dob{
+    margin-bottom: 25px;
+    position: relative;
+    right: 6px;
+    bottom: 10px;
+}
+#dob1{
+     margin-bottom: 20px;
+    width: 100%;
+    height: 20px;
+}
+.em{
+    margin-bottom: 25px;
+    position: relative;
+    right:6px;
+    bottom: 10px;
+}
+#em1{
+     margin-bottom: 20px;
+    width: 100%;
+    height: 20px;
+}
+.rol{
+    margin-bottom: 25px;
+    position: relative;
+    right:6px;
+    bottom: 10px;
+}
+#rol1{
+   margin-bottom: 20px;
+    width: 100%;
+    height: 20px;
+}
+.back{
+    width: 80px;
+    height: 30px;
+    border-radius: 5px;
+    position: relative;
+    top: 15px;
+}
+.sub{
+    width: 80px;
+    height: 30px;
+    border-radius: 5px;
+    position: relative;
+    left: 80px;
+    top: 15px;
+
+}
